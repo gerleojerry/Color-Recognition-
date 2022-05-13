@@ -1,0 +1,1 @@
+**Problem Statement** : The purpose of this project is to classify colors, there are 10 different images with 20 images for each colors in the train set and 5 images for each colors in the test set
